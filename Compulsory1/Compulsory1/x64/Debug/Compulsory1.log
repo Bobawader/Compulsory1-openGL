@@ -1,0 +1,6 @@
+﻿  Compulsory1.cpp
+C:\Github\OpenGL\Oblig1\Compulsory1\Compulsory1\Compulsory1.cpp(14,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Github\OpenGL\Oblig1\Compulsory1\Compulsory1\Compulsory1.cpp(71,63): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Github\OpenGL\Oblig1\Compulsory1\Compulsory1\Compulsory1.cpp(79,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Github\OpenGL\Oblig1\Compulsory1\Compulsory1\Compulsory1.cpp(80,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Compulsory1.vcxproj -> C:\Github\OpenGL\Oblig1\Compulsory1\x64\Debug\Compulsory1.exe
